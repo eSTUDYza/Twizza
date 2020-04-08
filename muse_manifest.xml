@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="twizza.com" resolutions="1x" timestamp="1586342377167">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="twizza.com" resolutions="1x" timestamp="1586348337386">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="423476169" ref="index"/>
+    <file name="index.css" crc="3762152523" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -10,6 +10,10 @@
     <file name="museconfig.js" crc="4286661555" ref="index"/>
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
   </folder>
   <folder name="images">
     <file name="wheel.png" crc="4153995830" seo="true" ref="index">
@@ -22,6 +26,37 @@
     <file name="twizza primary brand mark - promise -crop-u258.png" crc="487519798" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="eimagetwizzatvc-14-crop-u546.jpg" crc="171188943" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eimagetwizzatvc-44-crop-u566.jpg" crc="271472805" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eimagetwizzatvc-59-crop-u586.jpg" crc="3987866068" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eimagetwizzatvc-103-crop-u606.jpg" crc="4264576638" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="zp2_7800_ret low res-crop-u626.jpg" crc="150130261" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eimagetwizzatvc-1462x42.jpg" crc="439673064" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eimagetwizzatvc-5962x42.jpg" crc="320662511" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="zp2_7800_ret low res62x42.jpg" crc="3811211873" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eimagetwizzatvc-4462x42.jpg" crc="232729558" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eimagetwizzatvc-10362x42.jpg" crc="3785738279" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
   </folder>
-  <file name="index.html" crc="4138180508" seo="true" mt="1586342365290" redirect="true"/>
+  <file name="index.html" crc="4069192768" seo="true" mt="1586348325406" redirect="true"/>
 </manifest>
