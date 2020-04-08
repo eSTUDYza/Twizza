@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="twizza.com" resolutions="1x" timestamp="1586340705290">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="twizza.com" resolutions="1x" timestamp="1586342377167">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4133124619" ref="index"/>
+    <file name="index.css" crc="423476169" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -16,12 +16,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="twizza primary brand mark - promise .png" crc="4261555346" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="logo.png" crc="457026881" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="twizza primary brand mark - promise -crop-u258.png" crc="487519798" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4162091457" seo="true" mt="1586340663809" redirect="true"/>
+  <file name="index.html" crc="4138180508" seo="true" mt="1586342365290" redirect="true"/>
 </manifest>
