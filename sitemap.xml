@@ -12,9 +12,6 @@
       <image:loc>http://twizza.com/images/logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://twizza.com/images/twizza%20primary%20brand%20mark%20-%20promise%20-crop-u258.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://twizza.com/images/eimagetwizzatvc-14-crop-u546.jpg</image:loc>
     </image:image>
     <image:image>
@@ -43,6 +40,9 @@
     </image:image>
     <image:image>
       <image:loc>http://twizza.com/images/eimagetwizzatvc-10362x42.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://twizza.com/images/twizza%20primary%20brand%20mark%20-%20promise%20.png</image:loc>
     </image:image>
   </url>
 </urlset>
