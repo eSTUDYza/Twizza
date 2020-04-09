@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="twizza.com" resolutions="1x" timestamp="1586427299703">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="twizza.com" resolutions="1x" timestamp="1586429164913">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3866784146" ref="index"/>
+    <file name="index.css" crc="3833786565" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -24,19 +24,19 @@
     <file name="logo.png" crc="457026881" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eimagetwizzatvc-14-crop-u546.jpg" crc="171188943" seo="true" ref="index">
+    <file name="eimagetwizzatvc-14-crop-u546.jpg" crc="63004998" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eimagetwizzatvc-44-crop-u566.jpg" crc="271472805" seo="true" ref="index">
+    <file name="eimagetwizzatvc-44-crop-u566.jpg" crc="4270010513" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eimagetwizzatvc-59-crop-u586.jpg" crc="3987866068" seo="true" ref="index">
+    <file name="eimagetwizzatvc-59-crop-u586.jpg" crc="4092074650" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eimagetwizzatvc-103-crop-u606.jpg" crc="4264576638" seo="true" ref="index">
+    <file name="eimagetwizzatvc-103-crop-u606.jpg" crc="430268767" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="zp2_7800_ret low res-crop-u626.jpg" crc="150130261" seo="true" ref="index">
+    <file name="zp2_7800_ret low res-crop-u626.jpg" crc="3845143391" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="eimagetwizzatvc-1462x42.jpg" crc="439673064" seo="true" ref="index">
@@ -62,5 +62,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4162533791" seo="true" mt="1586427299013" redirect="true"/>
+  <file name="index.html" crc="91191383" seo="true" mt="1586429141036" redirect="true"/>
 </manifest>
