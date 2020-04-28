@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="twizza.com" resolutions="1x" timestamp="1586429164913">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="twizza.com" resolutions="1x" timestamp="1588067258426">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3833786565" ref="index"/>
+    <file name="index.css" crc="202483497" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -24,34 +24,10 @@
     <file name="logo.png" crc="457026881" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eimagetwizzatvc-14-crop-u546.jpg" crc="63004998" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="eimagetwizzatvc-44-crop-u566.jpg" crc="4270010513" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="eimagetwizzatvc-59-crop-u586.jpg" crc="4092074650" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="eimagetwizzatvc-103-crop-u606.jpg" crc="430268767" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="zp2_7800_ret low res-crop-u626.jpg" crc="3845143391" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="eimagetwizzatvc-1462x42.jpg" crc="439673064" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="eimagetwizzatvc-5962x42.jpg" crc="320662511" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="zp2_7800_ret low res62x42.jpg" crc="3811211873" seo="true" ref="index">
+    <file name="eimagetwizzatvc-44-crop-u566.jpg" crc="4200916029" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="eimagetwizzatvc-4462x42.jpg" crc="232729558" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="eimagetwizzatvc-10362x42.jpg" crc="3785738279" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
@@ -61,6 +37,9 @@
     <file name="twizza primary brand mark - promise .png" crc="4261555346" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="breaker image.jpg" crc="523126563" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="91191383" seo="true" mt="1586429141036" redirect="true"/>
+  <file name="index.html" crc="229559065" seo="true" mt="1588067011059" redirect="true"/>
 </manifest>
