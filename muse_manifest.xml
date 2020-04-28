@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="twizza.com" resolutions="1x" timestamp="1588069039248">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="twizza.com" resolutions="1x" timestamp="1588070092077">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4041452618" ref="index"/>
+    <file name="index.css" crc="227597119" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -27,9 +27,6 @@
     <file name="eimagetwizzatvc-44-crop-u566.jpg" crc="4065448304" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eimagetwizzatvc-4462x42.jpg" crc="232729558" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="activity-buttonu651-fr.jpg" crc="112759509" ref="index"/>
     <file name="welcome course-buttonu665-fr.jpg" crc="4123265139" ref="index"/>
@@ -40,7 +37,9 @@
     <file name="breaker image.jpg" crc="3799329536" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="background-page-fr.png" crc="338240836" ref="index"/>
+    <file name="muse bg.png" crc="414247904" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="292341288" seo="true" mt="1588069023169" redirect="true"/>
+  <file name="index.html" crc="4130243954" seo="true" mt="1588070083689" redirect="true"/>
 </manifest>

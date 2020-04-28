@@ -17,31 +17,24 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Home</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4041452618" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=227597119" id="pagesheet"/>
    </head>
  <body>
 
   <div class="clearfix borderbox" id="page"><!-- column -->
    <div class="position_content" id="page_position_content">
     <div class="clearfix colelem" id="pu765"><!-- group -->
-     <div class="clearfix grpelem" id="u765"><!-- group -->
-      <div class="SlideShowWidget clearfix grpelem" id="slideshowu318" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- none box -->
-       <div class="popup_anchor" data-col-pos="0" id="u321popup">
-        <div class="SlideShowContentPanel clearfix" data-col-pos="0" id="u321" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- stack box -->
-         <div class="SSSlide clip_frame grpelem" data-col-pos="0" id="u566" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- image -->
-          <img class="block ImageInclude" data-col-pos="0" id="u566_img" data-src="images/eimagetwizzatvc-44-crop-u566.jpg?crc=4065448304" src="images/blank.gif?crc=4208392903" alt="" data-width="989" data-height="309"/>
-         </div>
-        </div>
-       </div>
-       <div class="popup_anchor" data-col-pos="1" id="u338popup">
-        <div class="SSSlideLinks clearfix" data-col-pos="1" id="u338" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- horizontal-rows box -->
-         <div class="SSSlideLink clip_frame grpelem" data-col-pos="0" id="u572" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- image -->
-          <img class="block" data-col-pos="0" id="u572_img" src="images/eimagetwizzatvc-4462x42.jpg?crc=232729558" alt="" width="62" height="41"/>
+     <div class="clearfix grpelem" id="u765"><!-- column -->
+      <div class="SlideShowWidget clearfix colelem" id="slideshowu318" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- none box -->
+       <div class="popup_anchor" id="u321popup">
+        <div class="SlideShowContentPanel clearfix" id="u321" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- stack box -->
+         <div class="SSSlide clip_frame grpelem" id="u566" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- image -->
+          <img class="block ImageInclude" id="u566_img" data-src="images/eimagetwizzatvc-44-crop-u566.jpg?crc=4065448304" src="images/blank.gif?crc=4208392903" alt="" data-width="989" data-height="309"/>
          </div>
         </div>
        </div>
       </div>
-      <div class="Button museBGSize rounded-corners clearfix grpelem" id="buttonu651" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- container box -->
+      <div class="Button museBGSize rounded-corners clearfix colelem" id="buttonu651" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- container box -->
        <div class="clearfix colelem" id="u719-6" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content -->
         <p id="u719-2">WELCOME</p>
         <p id="u719-4">COURSE</p>
@@ -155,7 +148,7 @@ window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
-Muse.Utils.initWidget('#slideshowu318', ['#bp_infinity'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:5000,slideLinkStopsSlideShow:false,transitionStyle:'horizontal',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:1000,enableSwipe:true,elastic:'off',resumeAutoplay:true,resumeAutoplayInterval:5000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu318 */
+Muse.Utils.initWidget('#slideshowu318', ['#bp_infinity'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:5000,slideLinkStopsSlideShow:false,transitionStyle:'horizontal',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:1000,enableSwipe:false,elastic:'off',resumeAutoplay:false,resumeAutoplayInterval:5000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu318 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
