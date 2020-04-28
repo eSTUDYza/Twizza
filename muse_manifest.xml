@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="twizza.com" resolutions="1x" timestamp="1588067825622">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="twizza.com" resolutions="1x" timestamp="1588068630702">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="9771737" ref="index"/>
+    <file name="index.css" crc="233809675" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -40,6 +40,9 @@
     <file name="breaker image.jpg" crc="3799329536" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="background.png" crc="35379589" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="257932627" seo="true" mt="1588067824920" redirect="true"/>
+  <file name="index.html" crc="3961820175" seo="true" mt="1588068623297" redirect="true"/>
 </manifest>
