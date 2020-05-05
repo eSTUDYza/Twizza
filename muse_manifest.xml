@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="twizza.com" resolutions="1x" timestamp="1588071009117">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="twizza.com" resolutions="1x" timestamp="1588684302183">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="240193859" ref="index"/>
+    <file name="index.css" crc="511222644" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -24,9 +24,6 @@
     <file name="logo.png" crc="457026881" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eimagetwizzatvc-44-crop-u566.jpg" crc="209614087" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="activity-buttonu651-fr.jpg" crc="112759509" ref="index"/>
     <file name="welcome course-buttonu665-fr.jpg" crc="4123265139" ref="index"/>
@@ -41,6 +38,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="zp2_7800_ret low res-crop-u566.jpg" crc="133174158" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4227995018" seo="true" mt="1588070999117" redirect="true"/>
+  <file name="index.html" crc="220549190" seo="true" mt="1588684295299" redirect="true"/>
 </manifest>
