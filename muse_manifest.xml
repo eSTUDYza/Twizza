@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="twizza.com" resolutions="1x" timestamp="1588841310308">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="twizza.com" resolutions="1x" timestamp="1588841702600">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="511222644" ref="index"/>
@@ -42,5 +42,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4142237464" seo="true" mt="1588841304837" redirect="true"/>
+  <file name="index.html" crc="3942589803" seo="true" mt="1588841696429" redirect="true"/>
 </manifest>
