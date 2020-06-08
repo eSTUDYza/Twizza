@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="twizza.com" resolutions="1x" timestamp="1591349558012">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="twizza.com" resolutions="1x" timestamp="1591599257697">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4185676947" ref="index"/>
+    <file name="index.css" crc="254382014" ref="index"/>
     <file name="home-copy.css" crc="491537881" ref="home-copy"/>
   </folder>
   <folder name="scripts">
@@ -52,6 +52,6 @@
       <caption webpage="home-copy" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3955162024" seo="true" mt="1591349547679" redirect="true"/>
+  <file name="index.html" crc="3827282751" seo="true" mt="1591599231200" redirect="true"/>
   <file name="home-copy.html" crc="320355600" seo="true" mt="1591335110141" redirect="true"/>
 </manifest>
