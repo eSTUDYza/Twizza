@@ -1,44 +1,23 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="twizza.com" resolutions="1x" timestamp="1591599788401">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="twizza.com" resolutions="1x" timestamp="1597212170985">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="254382014" ref="index"/>
-    <file name="home-copy.css" crc="491537881" ref="home-copy"/>
+    <file name="home-copy.css" crc="21691060" ref="home-copy"/>
+    <file name="index.css" crc="4229568230" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home-copy"/>
-    <file name="museutils.js" crc="340535759" ref="index:home-copy"/>
+    <file name="museutils.js" crc="3939489907" ref="index:home-copy"/>
     <file name="whatinput.js" crc="86476730" ref="index:home-copy"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:home-copy"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:home-copy"/>
-    <file name="require.js" crc="7928878" ref="index:home-copy"/>
-    <file name="webpro.js" crc="4059564322" ref="index:home-copy"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="index:home-copy"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:home-copy"/>
-    <file name="touchswipe.js" crc="4075097462" ref="index:home-copy"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:home-copy"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:home-copy"/>
+    <file name="webpro.js" crc="3856315280" ref="index:home-copy"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:home-copy"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:home-copy"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:home-copy"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:home-copy"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:home-copy"/>
+    <file name="require.js" crc="4177726516" ref="index:home-copy"/>
   </folder>
   <folder name="images">
-    <file name="wheel.png" crc="4153995830" seo="true" ref="index:home-copy">
-      <caption webpage="index" alt=""/>
-      <caption webpage="home-copy" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="index:home-copy"/>
-    <file name="logo.png" crc="457026881" seo="true" ref="index:home-copy">
-      <caption webpage="index" alt=""/>
-      <caption webpage="home-copy" alt=""/>
-    </file>
-    <file name="loading.gif" crc="3815509949" ref="index:home-copy"/>
-    <file name="activity-buttonu651-fr.jpg" crc="112759509" ref="index:home-copy"/>
-    <file name="welcome course-buttonu665-fr.jpg" crc="4123265139" ref="index:home-copy"/>
-    <file name="platform nav-buttonu689-fr.jpg" crc="4129052266" ref="index:home-copy"/>
-    <file name="twizza primary brand mark - promise .png" crc="4261555346" seo="true" ref="index:home-copy">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="home-copy" alt=""/>
-    </file>
-    <file name="breaker image.jpg" crc="3799329536" ref="index:home-copy">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="muse bg.png" crc="414247904" ref="index:home-copy">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -48,10 +27,29 @@
     <file name="zp2_7800_ret low res-crop-u566.jpg" crc="133174158" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="blank.gif" crc="4208392903" ref="index:home-copy"/>
+    <file name="loading.gif" crc="3815509949" ref="index:home-copy"/>
+    <file name="activity-buttonu651-fr.jpg" crc="112759509" ref="index:home-copy"/>
+    <file name="welcome course-buttonu665-fr.jpg" crc="4123265139" ref="index:home-copy"/>
+    <file name="platform nav-buttonu689-fr.jpg" crc="4129052266" ref="index:home-copy"/>
+    <file name="twizza primary brand mark - promise .png" crc="4261555346" seo="true" ref="index:home-copy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+    </file>
+    <file name="logo.png" crc="457026881" seo="true" ref="index:home-copy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+    </file>
+    <file name="wheel.png" crc="4153995830" seo="true" ref="index:home-copy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+    </file>
+    <file name="breaker image.jpg" crc="3799329536" ref="index:home-copy"/>
     <file name="zp2_7800_ret low res-crop-u1108.jpg" crc="133174158" seo="true" ref="home-copy">
       <caption webpage="home-copy" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3914990819" seo="true" mt="1591599781236" redirect="true"/>
-  <file name="home-copy.html" crc="320355600" seo="true" mt="1591335110141" redirect="true"/>
+  <file name="index.html" crc="194326400" seo="true" mt="1597212123514" redirect="true"/>
+  <file name="home-copy.html" crc="85200195" seo="true" mt="1591335110141" redirect="true"/>
 </manifest>
