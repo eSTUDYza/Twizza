@@ -1,45 +1,56 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="twizza.com" resolutions="1x" timestamp="1600422478938">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="twizza.com" resolutions="1x" timestamp="1605271725660">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="290282794" ref="index"/>
+    <file name="index.css" crc="4077599163" ref="index"/>
+    <file name="supportoperations.css" crc="281464370" ref="supportoperations"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3939489907" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="3936894949" ref="index"/>
-    <file name="webpro.js" crc="3856315280" ref="index"/>
-    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
-    <file name="touchswipe.js" crc="3888935200" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index"/>
-    <file name="require.js" crc="4177726516" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:supportoperations"/>
+    <file name="museutils.js" crc="3939489907" ref="index:supportoperations"/>
+    <file name="whatinput.js" crc="86476730" ref="index:supportoperations"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:supportoperations"/>
+    <file name="webpro.js" crc="3856315280" ref="index:supportoperations"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:supportoperations"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:supportoperations"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:supportoperations"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:supportoperations"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:supportoperations"/>
+    <file name="require.js" crc="4177726516" ref="index:supportoperations"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="muse bg.png" crc="414247904" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="index:supportoperations"/>
+    <file name="loading.gif" crc="3815509949" ref="index:supportoperations"/>
+    <file name="muse bg.png" crc="414247904" ref="index:supportoperations">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="supportoperations" alt=""/>
+      <caption webpage="supportoperations" alt=""/>
     </file>
     <file name="zp2_7800_ret low res-crop-u566.jpg" crc="133174158" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="activity-buttonu651-fr.jpg" crc="112759509" ref="index"/>
-    <file name="welcome course-buttonu665-fr.jpg" crc="4123265139" ref="index"/>
-    <file name="platform nav-buttonu689-fr.jpg" crc="4129052266" ref="index"/>
-    <file name="twizza primary brand mark - promise .png" crc="4261555346" seo="true" ref="index">
+    <file name="activity-buttonu651-fr.jpg" crc="112759509" ref="index:supportoperations"/>
+    <file name="welcome course-buttonu665-fr.jpg" crc="4123265139" ref="index:supportoperations"/>
+    <file name="platform nav-buttonu689-fr.jpg" crc="4129052266" ref="index:supportoperations"/>
+    <file name="twizza primary brand mark - promise .png" crc="4261555346" seo="true" ref="index:supportoperations">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="supportoperations" alt=""/>
+      <caption webpage="supportoperations" alt=""/>
     </file>
-    <file name="logo.png" crc="457026881" seo="true" ref="index">
+    <file name="logo.png" crc="457026881" seo="true" ref="index:supportoperations">
       <caption webpage="index" alt=""/>
+      <caption webpage="supportoperations" alt=""/>
     </file>
-    <file name="wheel.png" crc="4153995830" seo="true" ref="index">
+    <file name="wheel.png" crc="4153995830" seo="true" ref="index:supportoperations">
       <caption webpage="index" alt=""/>
+      <caption webpage="supportoperations" alt=""/>
     </file>
-    <file name="breaker image.jpg" crc="3799329536" ref="index"/>
+    <file name="breaker image.jpg" crc="3799329536" ref="index:supportoperations"/>
+    <file name="zp2_7800_ret low res-crop-u1358.jpg" crc="133174158" seo="true" ref="supportoperations">
+      <caption webpage="supportoperations" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="210166412" seo="true" mt="1600422436925" redirect="true"/>
+  <file name="index.html" crc="4054211884" seo="true" mt="1605271182229" redirect="true"/>
+  <file name="supportoperations.html" crc="4231059233" seo="true" mt="1605271140250" redirect="true"/>
 </manifest>
