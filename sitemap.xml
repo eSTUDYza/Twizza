@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://twizza.com/index.html</loc>
-    <lastmod>2020-11-13</lastmod>
+    <lastmod>2020-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -16,24 +16,6 @@
     </image:image>
     <image:image>
       <image:loc>http://twizza.com/images/wheel.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://twizza.com/supportoperations.html</loc>
-    <lastmod>2020-11-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://twizza.com/images/twizza%20primary%20brand%20mark%20-%20promise%20.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://twizza.com/images/logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://twizza.com/images/wheel.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://twizza.com/images/zp2_7800_ret%20low%20res-crop-u1358.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
